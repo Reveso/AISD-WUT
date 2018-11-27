@@ -1,0 +1,2 @@
+# AISD-WUT
+Few algorithms
